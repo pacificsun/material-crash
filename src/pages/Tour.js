@@ -4,7 +4,6 @@ import {
   Box,
   Paper,
   BottomNavigation,
-  BottomNavigationAction,
 } from "@mui/material";
 import CustomizedAccordions from "../components/Accordian";
 import ImageCollage from "../components/ImageCollage";
