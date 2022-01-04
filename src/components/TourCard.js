@@ -27,7 +27,6 @@ const theme = createTheme({
   },
 });
 const TourCard = ({ tour }) => {
-  console.log("here>>", tour);
   return (
     <Grid item xs={3}>
       <ThemeProvider theme={theme}>
